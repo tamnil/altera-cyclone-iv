@@ -1,1 +1,1 @@
-# altera-cyclone-iv
+# Altera Cyclone IV
